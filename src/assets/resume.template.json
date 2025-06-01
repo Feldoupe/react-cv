@@ -1,25 +1,48 @@
 {
-  "name": "John Doe",
-  "title": "Full Stack Developer",
+  "name": "Votre Nom",
+  "title": "Titre de votre poste ou formation",
   "contact": {
-    "email": "john@example.com",
-    "github": "https://github.com/johndoe"
+    "email": "exemple@email.com",
+    "github": "https://github.com/votreprofil",
+    "linkedin": "https://www.linkedin.com/in/votreprofil",
+    "phone": "+00 00 000 00 00",
+    "location": "Adresse complète ou région",
+    "birthdate": "JJ.MM.AAAA"
   },
-  "about": "Creative developer with 5+ years of experience.",
-  "skills": ["React", "TypeScript", "Node.js"],
+  "about": "Brève présentation personnelle, vos objectifs et motivations professionnelles.",
+  "skills": [
+    "Exemple de compétence",
+    "Autre compétence technique ou soft skill"
+  ],
+  "languages": [
+    "Français : Langue maternelle",
+    "Anglais : Niveau B2",
+    "Allemand : Niveau A2"
+  ],
   "experience": [
     {
-      "title": "Senior Developer",
-      "company": "TechCorp",
-      "dates": "2020–Present",
-      "details": ["Built web apps", "Led frontend team"]
+      "title": "Intitulé du poste",
+      "company": "Nom de l’entreprise",
+      "dates": "mois année – mois année",
+      "details": [
+        "Tâche accomplie 1",
+        "Responsabilité ou compétence développée"
+      ]
     }
   ],
   "education": [
     {
-      "degree": "B.Sc. Computer Science",
-      "school": "University of Technology",
-      "dates": "2014–2018"
+      "degree": "Nom du diplôme ou formation",
+      "school": "Nom de l’établissement",
+      "dates": "mois année – mois année",
+      "details": [
+        "Exemple de réussite",
+        "Mention ou point fort"
+      ]
     }
+  ],
+  "activities": [
+    "Activité personnelle ou hobby",
+    "Exemple d’engagement ou passion"
   ]
 }
