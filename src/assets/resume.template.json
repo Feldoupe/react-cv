@@ -1,0 +1,25 @@
+{
+  "name": "John Doe",
+  "title": "Full Stack Developer",
+  "contact": {
+    "email": "john@example.com",
+    "github": "https://github.com/johndoe"
+  },
+  "about": "Creative developer with 5+ years of experience.",
+  "skills": ["React", "TypeScript", "Node.js"],
+  "experience": [
+    {
+      "title": "Senior Developer",
+      "company": "TechCorp",
+      "dates": "2020–Present",
+      "details": ["Built web apps", "Led frontend team"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. Computer Science",
+      "school": "University of Technology",
+      "dates": "2014–2018"
+    }
+  ]
+}
